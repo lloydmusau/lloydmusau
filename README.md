@@ -14,5 +14,6 @@ Business and Information Technology student at Strathmore University, based in K
 - **Web:** Flask, 
 
 ## Connect with me
-- LinkedIn- Lloyd Musau
+- LinkedIn- @Lloyd Musau
 - Email- musaulloyd@gmail.com
+- WhatsApp -@musaulloyd
