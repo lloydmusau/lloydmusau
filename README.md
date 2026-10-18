@@ -1,4 +1,4 @@
-# Hi, I'm [your name] 👋
+# Hi, I'm Lloyd Musau 👋
 
 Business and Information Technology student at Strathmore University, Kenya. 
 I'm learning to build software with Python, MySQL and C++, and I like turning ideas into working projects.
