@@ -1,7 +1,8 @@
 # Hi, I'm Lloyd Musau 👋
 
 Business and Information Technology student at Strathmore University, Kenya. 
-I'm learning to build software with Python, MySQL and C++, and I like turning ideas into working projects.
+I'm learning to build business software with Python, MySQL and C++, and I like turning ideas into working projects.
+I'm studying business alongside IT, so I think about who will use a system and what problem it solves, not only how to code it.
 
 ## Projects
 
@@ -16,15 +17,22 @@ My first coding project, built with 4 teammates. One smart home program written 
 - Built with Python and C++
 - [View project](https://github.com/lloydmusau/smart_home_group_6)
 
-## Skills
+## Technical Skills
 - **Languages:** Python, C++
 - **Databases:** MySQL
 - **Web:** Flask, HTML
 - **Tools:** Git, GitHub, VS Code, Pycharm, Intelji
 
+## Business Skills
+- **Accounting** Books of accounts, Accounting cycle and computations
+- **Business finance:** Payments and budgeting
+- **Business management:** leadership and understanding working environment
+  
+
 ## Currently learning
 - Secure login practices (password hashing, sessions)
 - Writing cleaner SQL and Python
+- learning Object Oriented Programming with java
 
 ## Connect with me
 - Email- lloyd.mulinge@strathmore.edu
