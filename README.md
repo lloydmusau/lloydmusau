@@ -27,6 +27,6 @@ My first coding project, built with 4 teammates. One smart home program written 
 - Writing cleaner SQL and Python
 
 ## Connect with me
-- [Email](lloyd.mulinge@strathmore.edu)
-- [WhatsApp](@lloydmusau)
-- [LinkedIn](@lloyd musau)
+- Email- lloyd.mulinge@strathmore.edu
+- WhatsApp- @lloydmusau
+- LinkedIn -@lloyd musau
