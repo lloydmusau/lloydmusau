@@ -9,7 +9,7 @@ I'm learning to build software with Python, MySQL and C++, and I like turning id
 A web app where admins, students, teachers and staff log in, and admins manage records from a dashboard.
 - Built with Python, Flask, MySQL and HTML
 - Currently adding password hashing and proper login sessions
-- [View project](add-link-later)
+- [View project](https://github.com/lloydmusau/school-app)
 
 ### 2. Smart Home Mini Project (group project)
 My first coding project, built with 4 teammates. One smart home program written twice, in Python and in C++, to compare the two languages.
@@ -27,6 +27,6 @@ My first coding project, built with 4 teammates. One smart home program written 
 - Writing cleaner SQL and Python
 
 ## Connect with me
-- Email- lloyd.mulinge@strathmore.edu
-- WhatsApp- @lloydmusau
-- Linkedin- @lloyd musau
+- [Email](lloyd.mulinge@strathmore.edu)
+- [WhatsApp](@lloydmusau)
+- [LinkedIn](@lloyd musau)
