@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm lloyd musau 👋
 
-<!--
-**lloydmusau/lloydmusau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business and Information Technology student at Strathmore University, based in Kenya.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building mini project of smart-home system.
+- Building a school management system with Flask and MySQL (student, teacher and staff records, admin dashboard)
+- Learning secure login practices, such as password hashing and sessions
+- Learning Java and html.
+  
+## Skills
+- **Databases:** MySQL
+- **Languages:** Python, C++
+- **Web:** Flask, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- LinkedIn- Lloyd Musau
+- Email- musaulloyd@gmail.com
