@@ -26,7 +26,7 @@ A web app where admins, students, teachers and staff log in, and admins manage r
 * **Key Highlights:** Designed custom multi-screen GUI workflows (`CardLayout`), implemented robust SQL exception handling, and managed database state transitions.
 * **Repository:** [view project ](https://github.com/lloydmusau/musau.sufeeds)
 
-### 4. 🧩 Block Blast Game
+### 4. 🧩 Block Blast Game (Finished)
 * **Description:** A Java-based desktop puzzle game inspired by *Block Blast*, featuring interactive grid rendering, shape placement logic, and real-time score tracking.
 * **Tech Stack:** Java, Java Swing, AWT, OOP
 * **Key Highlights:** Built custom game loops and interactive grid components using Swing.
