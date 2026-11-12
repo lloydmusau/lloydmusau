@@ -30,7 +30,7 @@ A web app where admins, students, teachers and staff log in, and admins manage r
 * **Description:** A Java-based desktop puzzle game inspired by *Block Blast*, featuring interactive grid rendering, shape placement logic, and real-time score tracking.
 * **Tech Stack:** Java, Java Swing, AWT, OOP
 * **Key Highlights:** Built custom game loops and interactive grid components using Swing.
-* **Links:** [View Repository](https://github.com/lloydmusau/blockblast-game)
+* **Links:** [View Repository](https://github.com/lloydmusau/blockblast-game/tree/master)
   
 ## Technical Skills
 - **Languages:** Python, C++
